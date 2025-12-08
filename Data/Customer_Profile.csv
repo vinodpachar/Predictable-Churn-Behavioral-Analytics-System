@@ -1,0 +1,43 @@
+﻿customer_id,industry,company_size,region,plan_type,acquisition_channel,contract_term_months,is_multi_year_contract,onboarding_completion,cs_touch_model,initial_NRR_target,decision_maker_seniority,renewal_status,churn_status,churn_month,pattern_type,churn_flag
+C101,Finance,Enterprise,North America,Enterprise,Sales,36,Yes,Completed,High-Touch,120,VP,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C102,Retail,Mid-Market,APAC,Pro,Referral,12,No,Completed,Tech-Touch,105,Director,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C103,Healthcare,Enterprise,EMEA,Enterprise,Sales,24,Yes,Completed,High-Touch,115,C-level,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C104,SaaS,Mid-Market,North America,Pro,Sales,12,No,Completed,High-Touch,110,Director,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C105,E-commerce,Enterprise,North America,Enterprise,Partner,36,Yes,Completed,High-Touch,125,VP,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C106,Finance,Mid-Market,EMEA,Pro,Sales,12,No,Completed,Tech-Touch,108,Director,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C107,Retail,Enterprise,APAC,Enterprise,Sales,24,Yes,Completed,High-Touch,118,VP,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C108,SaaS,Mid-Market,North America,Pro,Referral,12,No,Completed,Tech-Touch,106,Manager,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C109,Finance,Enterprise,EMEA,Enterprise,Sales,36,Yes,Completed,High-Touch,122,C-level,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C110,E-commerce,Mid-Market,LATAM,Pro,Sales,12,No,Completed,Tech-Touch,107,Director,Renewed,Active,,Healthy_Growth_Stable_Renewal,0
+C111,Retail,Mid-Market,North America,Pro,Referral,12,No,Completed,Tech-Touch,105,Manager,Not Renewed,Churned,8,Spike_Plateau_Drop_Churn,1
+C112,E-commerce,Mid-Market,APAC,Pro,Self-Signup,12,No,Completed,No-Touch,100,Manager,Not Renewed,Churned,7,Spike_Plateau_Drop_Churn,1
+C113,SaaS,Mid-Market,EMEA,Basic,Self-Signup,12,No,Partial,No-Touch,100,Manager,Not Renewed,Churned,6,Spike_Plateau_Drop_Churn,1
+C114,Finance,Mid-Market,North America,Pro,Referral,12,No,Completed,Tech-Touch,102,Director,Not Renewed,Churned,9,Spike_Plateau_Drop_Churn,1
+C115,Healthcare,Mid-Market,LATAM,Basic,Self-Signup,12,No,Partial,No-Touch,100,Manager,Not Renewed,Churned,7,Spike_Plateau_Drop_Churn,1
+C116,E-commerce,Mid-Market,EMEA,Pro,Referral,12,No,Completed,Tech-Touch,105,Manager,Not Renewed,Churned,8,Spike_Plateau_Drop_Churn,1
+C117,SaaS,Mid-Market,North America,Pro,Self-Signup,12,No,Completed,No-Touch,100,Manager,Not Renewed,Churned,6,Spike_Plateau_Drop_Churn,1
+C118,Retail,Mid-Market,APAC,Basic,Self-Signup,12,No,Partial,No-Touch,100,Manager,Not Renewed,Churned,7,Spike_Plateau_Drop_Churn,1
+C119,Finance,Mid-Market,EMEA,Pro,Referral,12,No,Completed,Tech-Touch,104,Director,Not Renewed,Churned,9,Spike_Plateau_Drop_Churn,1
+C120,Healthcare,Mid-Market,North America,Pro,Self-Signup,12,No,Completed,Tech-Touch,103,Manager,Not Renewed,Churned,8,Spike_Plateau_Drop_Churn,1
+C121,E-commerce,Small,APAC,Basic,Self-Signup,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,2,Onboarding_Failure_Early_Churn,1
+C122,Retail,Small,North America,Basic,Referral,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,3,Onboarding_Failure_Early_Churn,1
+C123,SaaS,Mid-Market,EMEA,Pro,Self-Signup,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,2,Onboarding_Failure_Early_Churn,1
+C124,Healthcare,Small,LATAM,Basic,Self-Signup,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,1,Onboarding_Failure_Early_Churn,1
+C125,Finance,Mid-Market,North America,Pro,Referral,12,No,Partial,No-Touch,102,Manager,Not Renewed,Churned,3,Onboarding_Failure_Early_Churn,1
+C126,Retail,Small,APAC,Basic,Self-Signup,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,2,Onboarding_Failure_Early_Churn,1
+C127,SaaS,Small,North America,Basic,Self-Signup,12,No,Failed,No-Touch,100,Manager,Not Renewed,Churned,1,Onboarding_Failure_Early_Churn,1
+C128,E-commerce,Mid-Market,EMEA,Pro,Self-Signup,12,No,Partial,Tech-Touch,103,Manager,Not Renewed,Churned,4,Onboarding_Failure_Early_Churn,1
+C129,Healthcare,Small,North America,Basic,Self-Signup,12,No,Completed,No-Touch,100,Manager,Renewed,Active,,Stable_Low_No_Churn,0
+C130,Retail,Mid-Market,EMEA,Pro,Referral,12,No,Completed,Tech-Touch,102,Director,Renewed,Active,,Stable_Low_No_Churn,0
+C131,E-commerce,Small,LATAM,Basic,Self-Signup,12,No,Completed,No-Touch,100,Manager,Renewed,Active,,Stable_Low_No_Churn,0
+C132,SaaS,Mid-Market,APAC,Pro,Self-Signup,12,No,Completed,Tech-Touch,103,Manager,Renewed,Active,,Stable_Low_No_Churn,0
+C133,Finance,Mid-Market,North America,Pro,Referral,12,No,Partial,Tech-Touch,104,Director,Renewed,Active,,Stable_Low_No_Churn,0
+C134,Healthcare,Small,EMEA,Basic,Self-Signup,12,No,Completed,No-Touch,100,Manager,Renewed,Active,,Stable_Low_No_Churn,0
+C135,Finance,Enterprise,North America,Enterprise,Sales,36,Yes,Completed,High-Touch,120,C-level,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C136,SaaS,Enterprise,EMEA,Enterprise,Sales,24,Yes,Completed,High-Touch,118,VP,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C137,Healthcare,Enterprise,APAC,Enterprise,Partner,36,Yes,Partial,High-Touch,115,Director,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C138,E-commerce,Mid-Market,North America,Pro,Sales,24,Yes,Completed,Tech-Touch,112,VP,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C139,Retail,Enterprise,EMEA,Enterprise,Sales,36,Yes,Partial,High-Touch,117,C-level,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C140,Finance,Enterprise,LATAM,Enterprise,Partner,24,Yes,Completed,High-Touch,121,Director,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C141,SaaS,Mid-Market,North America,Pro,Sales,24,Yes,Completed,Tech-Touch,110,Director,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
+C142,Healthcare,Enterprise,EMEA,Enterprise,Sales,36,Yes,Completed,High-Touch,119,VP,Renewed,Active,,Contract_Renewal_Despite_Low_Usage,0
