@@ -1,0 +1,11 @@
+# Excel temporary files
+~$*.xlsx
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional future folders
+__pycache__/
+.ipynb_checkpoints/
